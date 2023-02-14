@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS_Assignment.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DF28F616-D62F-47BD-9287-3BC514C18A4B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_Assignment.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS_AssignmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Projectile.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{3E7DEBD6-0DA0-49B8-B0E9-A64F20BC003D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS_Assignment">
+      <UniqueIdentifier>{3E03CBEA-A877-4EAC-B8AF-B1BC00B98AD4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPS_Assignment\FPS_Assignment.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Assignment\FPS_Assignment.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FPS_Assignment\FPS_Assignment.Build.cs">
+      <Filter>Source\FPS_Assignment</Filter>
+    </None>
+    <ClInclude Include="..\..\Source\FPS_Assignment\HealthPickup.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Assignment\HealthPickup.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Assignment\FPSCharacter.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FPS_Assignment\BaseAmmoPickup.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Assignment\BaseAmmoReload.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Assignment\EnvironmentDamage.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FPS_Assignment\FPS_AssignmentGameModeBase.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Assignment\FPS_AssignmentGameModeBase.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Assignment\FPSProjectile.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Assignment\FPSProjectile.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FPS_Assignment\EnvironmentDamage.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FPS_Assignment\BaseAmmoPickup.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Assignment\BaseAmmoReload.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Assignment\FPSCharacter.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FPS_Assignment\Enemy.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Assignment\Enemy.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FPS_Assignment\FPSHUD.h">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Assignment\FPSHUD.cpp">
+      <Filter>Source\FPS_Assignment</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

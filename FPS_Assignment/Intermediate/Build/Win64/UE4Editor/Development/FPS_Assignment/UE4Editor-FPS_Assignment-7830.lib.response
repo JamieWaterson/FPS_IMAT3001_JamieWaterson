@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FPS_Assignment-7830.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\FPS_AssignmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPS_Assignment.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPS_AssignmentGameModeBase.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPSProjectile.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\Enemy.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\BaseAmmo.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\BaseAmmoReload.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPSCharacter.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\BaseAmmoRefill.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\BaseAmmoPickup.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPSProjectile.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\Enemy.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPS_AssignmentGameModeBase.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\BaseAmmoReload.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPSCharacter.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\BaseAmmoRefill.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\BaseAmmoPickup.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\FPS_Assignment.init.gen.cpp.obj"
+"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\Default.rc2.res"
+/OUT:"E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\UE4Editor-FPS_Assignment-7830.lib"

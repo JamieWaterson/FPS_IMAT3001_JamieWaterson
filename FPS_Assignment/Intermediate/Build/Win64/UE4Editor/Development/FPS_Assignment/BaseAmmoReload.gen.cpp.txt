@@ -1,0 +1,5 @@
+F:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\Definitions.FPS_Assignment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Year 3\AGE\FPS_Assignment\Source\FPS_Assignment/BaseAmmoReload.h
+F:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Inc\FPS_Assignment\BaseAmmoReload.generated.h

@@ -1,0 +1,3 @@
+F:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\Definitions.FPS_Assignment.h
+F:\Year 3\AGE\FPS_Assignment\Source\FPS_Assignment\HealthPickup.h
+F:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Inc\FPS_Assignment\HealthPickup.generated.h

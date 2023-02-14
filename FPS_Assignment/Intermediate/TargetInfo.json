@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPS_Assignment",
+			"Path": "F:\\Year 3\\AGE\\FPS_Assignment\\Source\\FPS_Assignment.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPS_AssignmentEditor",
+			"Path": "F:\\Year 3\\AGE\\FPS_Assignment\\Source\\FPS_AssignmentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

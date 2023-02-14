@@ -1,0 +1,44 @@
+﻿  Invalidating makefile for FPS_AssignmentEditor (UHT files changed)
+  Parsing headers for FPS_AssignmentEditor
+    Running UnrealHeaderTool "E:\Year 3\AGE\FPS_Assignment\FPS_Assignment.uproject" "E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\FPS_AssignmentEditor\Development\FPS_AssignmentEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Magic\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for FPS_AssignmentEditor in 73.5583905 seconds
+  Building FPS_AssignmentEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 12 processes...
+    [1/9] FPSCharacter.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [2/9] FPS_Assignment.init.gen.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [3/9] FPSProjectile.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [4/9] EnvironmentDamage.gen.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [5/9] Enemy.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): warning MSB5021: Terminating the task executable "cmd" and its child processes because the build was canceled.

@@ -1,0 +1,2 @@
+E:\Year 3\AGE\FPS_Assignment\Intermediate\Build\Win64\UE4Editor\Development\FPS_Assignment\Definitions.FPS_Assignment.h
+E:\Year 3\AGE\FPS_Assignment\Source\FPS_Assignment\BaseAmmo.h
